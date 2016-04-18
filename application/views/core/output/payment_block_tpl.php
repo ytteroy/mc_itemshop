@@ -133,7 +133,7 @@ echo form_open(current_url(), array('id' => 'checkout-payment', 'class' => 'form
                             <div class="control-group">
                                 <label class="control-label"></label>
                                 <div class="controls">
-                                    <strong><a rel="tooltip" title="Ātrais apmaksas veids. <?php echo $pay_method; ?> kods ir pieejams uzreiz pēc apmaksas." id="airtel_<?php echo $pay_method; ?>_system" href="#">Iegādāties airtel <?php echo $pay_method; ?> kodu <i class="icon-external-link"></i></a></strong>
+                                    <strong><a rel="tooltip" title="Ātrais apmaksas veids. <?php echo $pay_method; ?> kods ir pieejams uzreiz pēc apmaksas." id="airtel_<?php echo $pay_method; ?>_system" href="#">Iegādāties baltGro <?php echo $pay_method; ?> kodu <i class="icon-external-link"></i></a></strong>
                                 </div>
                             </div>
                         
